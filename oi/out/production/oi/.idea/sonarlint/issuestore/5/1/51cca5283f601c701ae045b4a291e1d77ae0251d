@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¯ä¸8´ßõ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(À»Â8‘¥×±õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(’«‚Èıÿÿÿÿ8é³£²õ.
+V	java:S125"<This block of commented-out lines of code should be removed.(óºèÚ8ó‚Ÿ²õ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(À»Â8Îë×°õ.
+V	java:S125"<This block of commented-out lines of code should be removed.(Ú¥å8™‰ß±õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(ú‚Ì¤ıÿÿÿÿ8™‰ß±õ.
+V	java:S125"<This block of commented-out lines of code should be removed.(ˆ—©¿8Ê†á±õ.
+V	java:S125"<This block of commented-out lines of code should be removed.(…‹»ñ8™‰ß±õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8™‰ß±õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¡¬Æ8Îÿú²õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(ÏşÛéûÿÿÿÿ8üæª²õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(Ç™Üåøÿÿÿÿ8¦Îù²õ.
+V	java:S125"<This block of commented-out lines of code should be removed.(¼¦Õ8é³£²õ.
+[	java:S125"<This block of commented-out lines of code should be removed.(™ä…õüÿÿÿÿ8ÊÕº±õ.

@@ -1,0 +1,14 @@
+
+r
+java:S1104	"PMake left a static final constant or non-public and provide accessors if needed.(ˆ’“ßşÿÿÿÿ8Ö“Óõ.
+]	java:S125$"<This block of commented-out lines of code should be removed.(òß¿•üÿÿÿÿ8Ö“Óõ.
+n
+java:S1104
+"QMake right a static final constant or non-public and provide accessors if needed.(¤¸‚ä8Ö“Óõ.
+c
+java:S1126C"AReplace this if-then-else statement by a single return statement.(±Åµüûÿÿÿÿ8Ö“Óõ.
+s
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8Ö“Óõ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¯ä¸8Ö“Óõ.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Ö“Óõ.

@@ -1,0 +1,13 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(À«é¹øÿÿÿÿ8±İÙõ.
+H
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8İ¹Ôõ.
+J
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8İ¹Ôõ.
+H
+java:S1481"(Remove this unused "nn7" local variable.(Šçüÿÿÿÿ8…·£³õ.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¯ä¸
+W
+java:S1854"7Remove this useless assignment to local variable "nn7".(Šçüÿÿÿÿ8…·£³õ.
+I
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8İ¹Ôõ.

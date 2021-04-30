@@ -1,0 +1,18 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÛŞØ8ó­ú¹ô.
+V	java:S125"<This block of commented-out lines of code should be removed.( ÇÙ³8´çø¹ô.
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(à†äƒ8Ş÷¹ô.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¡¾€
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Õ§îşÿÿÿÿ
+d
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ˆè‚6
+V	java:S125"<This block of commented-out lines of code should be removed.(‚”¶Á8Ôûø¹ô.
+F
+java:S1075"&Remove this hard-coded path-delimiter.(‚½½øÿÿÿÿ8©ººô.
+\	java:S899"=Do something with the "boolean" value returned by "renameTo".(¡Ù¿üÿÿÿÿ8Éß¹ºô.
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(õİˆÈ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ˆè‚6
